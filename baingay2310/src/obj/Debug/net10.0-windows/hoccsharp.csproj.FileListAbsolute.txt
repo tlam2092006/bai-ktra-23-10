@@ -1,0 +1,14 @@
+D:\baingay2310\src\bin\Debug\net10.0-windows\hoccsharp.exe
+D:\baingay2310\src\bin\Debug\net10.0-windows\hoccsharp.deps.json
+D:\baingay2310\src\bin\Debug\net10.0-windows\hoccsharp.runtimeconfig.json
+D:\baingay2310\src\bin\Debug\net10.0-windows\hoccsharp.dll
+D:\baingay2310\src\bin\Debug\net10.0-windows\hoccsharp.pdb
+D:\baingay2310\src\obj\Debug\net10.0-windows\hoccsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\baingay2310\src\obj\Debug\net10.0-windows\hoccsharp.AssemblyInfoInputs.cache
+D:\baingay2310\src\obj\Debug\net10.0-windows\hoccsharp.AssemblyInfo.cs
+D:\baingay2310\src\obj\Debug\net10.0-windows\hoccsharp.csproj.CoreCompileInputs.cache
+D:\baingay2310\src\obj\Debug\net10.0-windows\hoccsharp.dll
+D:\baingay2310\src\obj\Debug\net10.0-windows\refint\hoccsharp.dll
+D:\baingay2310\src\obj\Debug\net10.0-windows\hoccsharp.pdb
+D:\baingay2310\src\obj\Debug\net10.0-windows\hoccsharp.genruntimeconfig.cache
+D:\baingay2310\src\obj\Debug\net10.0-windows\ref\hoccsharp.dll
